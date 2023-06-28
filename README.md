@@ -14,7 +14,8 @@ $ git clone https://github.com/Sonu589/HOTEL_PROJECT.git
 ```
 
 
-First Run Server Than Client
+#First Run Server Than Client
+
 Install dependencies. Make sure you already have [`nodejs`](https://nodejs.org/en/) & [`npm`](https://www.npmjs.com/) installed in your system.
 ```bash
  IN Client Folder
@@ -26,9 +27,10 @@ $ npm install # or yarn
 $ npm start # or yarn start!
 ```
 
-``` In Server Folder Add Package Files Copy From Outside Then Type This Command
+
 ```bash
 Inside Server Folder
+In Server Folder Add Package Files Copy From Outside Then Type This Command
 $ Replace Your MONGO_URI
 $ npm install # or yarn
 
